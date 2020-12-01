@@ -1,0 +1,13 @@
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.csprojAssemblyReference.cache
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.AssemblyInfoInputs.cache
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.AssemblyInfo.cs
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.csproj.CoreCompileInputs.cache
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.exe
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.deps.json
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.runtimeconfig.json
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.runtimeconfig.dev.json
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.dll
+C:\Users\Final\Desktop\cour\c#\Banque\bin\Debug\netcoreapp3.1\Banque.pdb
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.dll
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.pdb
+C:\Users\Final\Desktop\cour\c#\Banque\obj\Debug\netcoreapp3.1\Banque.genruntimeconfig.cache

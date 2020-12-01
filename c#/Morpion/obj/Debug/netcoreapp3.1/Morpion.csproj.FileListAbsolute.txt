@@ -1,0 +1,13 @@
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.csprojAssemblyReference.cache
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.AssemblyInfoInputs.cache
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.AssemblyInfo.cs
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.exe
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.deps.json
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.runtimeconfig.json
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.runtimeconfig.dev.json
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.dll
+C:\Users\Final\Desktop\cour\c#\Morpion\bin\Debug\netcoreapp3.1\Morpion.pdb
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.dll
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.pdb
+C:\Users\Final\Desktop\cour\c#\Morpion\obj\Debug\netcoreapp3.1\Morpion.genruntimeconfig.cache
